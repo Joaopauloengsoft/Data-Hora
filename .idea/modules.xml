@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Date-Hora-Calendar.iml" filepath="$PROJECT_DIR$/Date-Hora-Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-Hora.iml" filepath="$PROJECT_DIR$/Data-Hora.iml" />
     </modules>
   </component>
 </project>
